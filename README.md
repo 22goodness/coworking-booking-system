@@ -14,8 +14,10 @@ Discounts: Get a 10% discount for bookings over 3 hours.
 Dashboard: View total revenue collected by membership type.
 Visual Representation: See which desks are booked and which are available.
 How to Use
+
 Step 1: Open the Booking System
-Open the index.html file in your web browser.
+Please visit https://coworking-booking-system.vercel.app/ to access the Co-working Space Booking System.
+
 Step 2: Book a Desk
 Select a Desk ID:
 
